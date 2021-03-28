@@ -11,6 +11,12 @@ h1 {
     font-weight: 500;
 }
 
+h3 {
+    margin: 0 0 0.5rem;
+    font-size: 1rem;
+    font-weight: 500;
+}
+
 /* Navbar */
 
 .navbar {
@@ -118,7 +124,7 @@ h1 {
 }
 
 .speakers-info {
-    
+
 }
 
 /* FAQ section */
@@ -132,9 +138,21 @@ h1 {
 /* Organizers section */
 
 .organizers-section {
-    height: 25rem;
+    min-height: 25rem; /* TODO: edit when pictures are added */
     padding: 3rem 10%;
     background-color: #ddd;
+}
+
+.organizers-item {
+
+}
+
+.organizers-img {
+
+}
+
+.organizers-info {
+    
 }
 
 /* Contact Us section */
