@@ -1,3 +1,3 @@
 function signUp() {
-    window.open("https://www.youtube.com/watch?v=dQw4w9WgXcQ");
+    window.open("https://forms.gle/tqMPK4SbVYsvMjaw9");
 }
