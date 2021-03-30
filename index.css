@@ -111,8 +111,8 @@ p {
     cursor: pointer;
     transition: 0.2s;
 }
+
 .title-button:hover {
-    /* background-color: #ddd; */
     box-shadow: 0 0 0.5rem #999;
 }
 
